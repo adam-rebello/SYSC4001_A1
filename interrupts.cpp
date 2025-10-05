@@ -1,6 +1,6 @@
 /**
  *
- * @file interrupts.c
+ * @file interrupts.cpp
  * @author Adam Rebello  and Marc Aoun
  *
  */
